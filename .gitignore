@@ -34,3 +34,13 @@ out
 log
 *.log
 *.html
+
+
+# Added by cargo
+
+/target
+
+# Bindgen
+bindgen_extra.h
+/.vscode
+/bin
